@@ -1,3 +1,13 @@
+# Sobre o projeto
+Para esse projeto desenvolvemos um Cadastro de Usuário em React. Nele é possível incluir usuários numa lista,
+assim como editar suas informações e também excluí-las. Além do cadastro, temos navegação entre os components,
+realizada através do React Router, um layout gerenciado pelo Bootstrap e responsividade. Junto a isso, observamos
+um backend baseado no JSON Server para persistir os dados do nosso aplicativo.
+
+![Captura de tela de 2022-03-17 22-56-50](https://user-images.githubusercontent.com/88064533/158924995-46d0bb8e-3034-4c86-925f-155ce75002e8.png)
+
+![Captura de tela de 2022-03-17 22-55-03](https://user-images.githubusercontent.com/88064533/158925004-16770f88-f9db-4019-8d27-36ebd9b2ed7a.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
