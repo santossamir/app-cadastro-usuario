@@ -5,7 +5,7 @@ import Main from '../template/Main';
 const headerProps = {
     icon: 'users',
     title: 'Usuários',
-    subtitle: 'Cadastro de unuários: Incluir, Listar, Alterar e Exluir!'
+    subtitle: 'Cadastro de usuários: Incluir, Listar, Alterar e Exluir!'
 }
 
 const baseURL = 'http://localhost:3001/users'
