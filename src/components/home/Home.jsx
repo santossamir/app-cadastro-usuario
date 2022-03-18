@@ -10,10 +10,10 @@ export default props => {
             <hr />
             <p className="mb-0">
                 Esse é um Sistema de Cadastro que foi desenvolvido na biblioteca Javascript React.
-                Nele é possível adicionar usuário na lista, assim como editar as informações e excluí-las.
+                Nele é possível adicionar usuário na lista, assim como editar suas informações e excluí-las.
             </p>
             <p> A persistência de dados ficou responsável pelo <i>JSON Serve</i> simulando um <i>API REST</i>.
-                Além disso nosso projeto possui responsividade e um layout organizado e gerenciado pelo Bootstrap.
+                Além disso, nosso projeto possui responsividade e um layout organizado e gerenciado pelo Bootstrap.
             </p>
         </Main>
     )
