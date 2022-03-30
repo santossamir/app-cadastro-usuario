@@ -1,14 +1,9 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Arthur Oliveira",
-      "email": "aoliveira@coder.com.br"
-    },
-    {
-      "id": 2,
-      "name": "Maria Julia da Silva",
-      "email": "mjds@empresa.com"
+      "name": "Samir Teixeira dos Santos",
+      "email": "santossamir@hotmail.com",
+      "id": 1
     }
   ]
 }
