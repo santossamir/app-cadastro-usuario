@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/app-cadastro-usuario/static/css/main.ba107233.css",
+    "main.js": "/app-cadastro-usuario/static/js/main.7cb4e50c.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/app-cadastro-usuario/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/app-cadastro-usuario/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/app-cadastro-usuario/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/app-cadastro-usuario/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/app-cadastro-usuario/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/logo.png": "/app-cadastro-usuario/static/media/logo.bd83bc914e27fc482ff5.png",
+    "index.html": "/app-cadastro-usuario/index.html",
+    "main.ba107233.css.map": "/app-cadastro-usuario/static/css/main.ba107233.css.map",
+    "main.7cb4e50c.js.map": "/app-cadastro-usuario/static/js/main.7cb4e50c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba107233.css",
+    "static/js/main.7cb4e50c.js"
+  ]
+}
